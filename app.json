@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "A weather app built with React Native",
+    "githubUrl": "https://github.com/theGrandmaster05/weather"
   }
 }
