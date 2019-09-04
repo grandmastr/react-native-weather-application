@@ -10,3 +10,5 @@ A weather mobile application built with React Native, all you have to do is inst
 The project covers basic topics to get started with more complex mobile applications   
 
 I made use of the MetaWeather API. You can check that out via this link https://www.metaweather.com/api/ 
+
+You can access the view the project via this link ➡ https://expo.io/@thegrandmaster/weather
