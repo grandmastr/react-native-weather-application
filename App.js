@@ -77,7 +77,8 @@ export default () => {
             </View>
           )}
         
-          <SearchInput placeholder="Search any city..." onSubmit={handleUpdateLocation} bgColor={getImageForWeather(weather).backgroundColor}/>
+          {!loading && <SearchInput placeholder="Search any city..." onSubmit={handleUpdateLocation}
+                                     bgColor={getImageForWeather(weather).backgroundColor}/>}
         </View>
       </ImageBackground>
     </KeyboardAvoidingView>
